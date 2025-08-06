@@ -75,7 +75,7 @@ function Hero() {
             { label: "Download My Resume", icon: <FaPagelines />, href: "https://drive.google.com/file/d/1C1kZIvLrVGr2SvzaWlnni87QZLP2a63u/view?usp=drive_link" },
             { label: "Data Science Ebooks", icon: <FaBook />, href: "https://drive.google.com/drive/folders/17arThf5KqIaPOdcqJIH-C4ki7fxXuW8V?usp=drive_link" },
             { label: "AI Generated Art", icon: <FaPaintBrush />, href: "#" },
-            { label: "Code with Betelgeuse", icon: <FaCode />, href: "https://github.com/am-aslam?tab=repositories" },
+            { label: "Code with Aslam", icon: <FaCode />, href: "https://github.com/am-aslam?tab=repositories" },
             { label: "Follow on GitHub", icon: <FaGithub />, href: "https://github.com/am-aslam" },
           ].map((link, index) => (
             <motion.a
