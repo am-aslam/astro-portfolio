@@ -1,4 +1,3 @@
-import React from "react";
 import { FaGithub, FaInstagram, FaBook, FaPaintBrush, FaCode, FaLinkedin, FaWhatsapp, FaPagelines } from "react-icons/fa";
 import { motion } from "framer-motion";
 import profile from "../assets/profile.jpg"
