@@ -47,7 +47,7 @@ function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.3, duration: 0.6 }}
         >
-          Unveiling tech, making Creative Project With AI/ML.Anaysing data With PowerBi and Tabluea
+          Unveiling tech, making Creative Project With AI/ML.Analysing data With PowerBi and Tabluea
         </motion.p>
 
         {/* Social Icons */}
